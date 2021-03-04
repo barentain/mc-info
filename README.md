@@ -13,12 +13,12 @@
 Windows: 
 
 ```
-py -3 mc-info.py
+py -3 cat.py
 ```
 
 Linux:
 ```
-python3 mc-info.py
+python3 cat.py
 ```
 
 After you've run the script, it will prompt you to enter a username.
